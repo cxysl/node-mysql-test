@@ -14,5 +14,10 @@
     "40"
   ],
   "author": "40",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@tbmp/mp-cloud-sdk": "^1.4.6",
+    "request": "^2.88.2",
+    "safe-buffer": "^5.2.1"
+  }
 }

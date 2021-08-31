@@ -65,7 +65,7 @@
 // var data = '城南花已开~  40又不在;';
 
 // // 创建一个可以写入的流，写入到文件 output.txt 中
-// var writerStream = fs.createWriteStream('output.txt');
+// var writerStream = fs.createWriteStream('output1.txt');
 
 // // 使用 utf8 编码写入数据
 // writerStream.write(data,'UTF8');
